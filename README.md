@@ -1,0 +1,3 @@
+Homework 2 of Stat 159, Spring 2023 at UC Berkeley. Contains a copy of the LIGO Gravitational Wave Detection Tutorial Notebook. All coe and data is based on the original [LIGO Center for Open Science Tutorial Repository](https://github.com/losc-tutorial/LOSC_Event_tutorial). This repository is a class exercise that restructures the original LIGO code for improved reproducibility.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-s23/hw02-clairemai02.git/HEAD?labpath=LOSC_Event_tutorial.ipynb)
